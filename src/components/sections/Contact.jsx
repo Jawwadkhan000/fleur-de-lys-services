@@ -63,7 +63,7 @@ function Contact() {
                   <MapPin className="text-gray-300" size={20} />
                 </div>
                 <span className="text-white/80">
-                  120 Hospitality Avenue, New York
+                  St. Peters, Missouri
                 </span>
               </div>
             </div>

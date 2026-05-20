@@ -100,21 +100,21 @@ function Hero() {
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl px-8 py-6 flex gap-12 shadow-2xl">
             <div className="text-center">
               <h3 className="text-2xl font-bold" style={{ color: "#E0E0E0" }}>
-                120+
+                100+
               </h3>
-              <p className="text-white/70 text-sm">Restaurants Helped</p>
+              <p className="text-white/70 text-sm">Trust Score</p>
             </div>
 
             <div className="text-center">
               <h3 className="text-2xl font-bold" style={{ color: "#E0E0E0" }}>
-                $25M+
+                $20k+
               </h3>
               <p className="text-white/70 text-sm">Revenue Growth</p>
             </div>
 
             <div className="text-center">
               <h3 className="text-2xl font-bold" style={{ color: "#E0E0E0" }}>
-                15+
+                10+
               </h3>
               <p className="text-white/70 text-sm">Years Experience</p>
             </div>
