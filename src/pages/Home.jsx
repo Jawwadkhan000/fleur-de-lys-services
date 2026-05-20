@@ -5,6 +5,7 @@ import About from "../components/sections/About";
 import Testimonials from "../components/sections/Testimonials";
 import CTA from "../components/sections/CTA";
 import Contact from "../components/sections/Contact";
+import Certify from "../components/sections/Certify";
 
 function Home() {
   return (
@@ -13,8 +14,9 @@ function Home() {
       <Services />
       <Process />
       <About />
-      <Testimonials />
       <CTA />
+      <Testimonials />
+      <Certify />
       <Contact />
     </>
   );

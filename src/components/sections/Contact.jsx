@@ -55,7 +55,7 @@ function Contact() {
                 <div className="p-3 rounded-lg bg-white/5 border border-white/10 group-hover:border-gray-400 transition">
                   <Phone className="text-gray-300" size={20} />
                 </div>
-                <span className="text-white/80">+1 (555) 123-4567</span>
+                <span className="text-white/80">+1 (314) 496-3281</span>
               </div>
 
               <div className="flex items-center gap-4 group">

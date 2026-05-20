@@ -113,21 +113,21 @@ const Footer = () => {
 
             <div className="flex gap-3">
               <a
-                href="#"
+                href="https://www.facebook.com/share/14a8fFXu5f9/"
                 className="p-3 bg-[#141414] rounded-lg hover:bg-gray-300/20 hover:text-white transition"
               >
                 <Facebook size={18} />
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/company/fleur-de-lys-restaurant-services/"
                 className="p-3 bg-[#141414] rounded-lg hover:bg-gray-300/20 hover:text-white transition"
               >
                 <Linkedin size={18} />
               </a>
 
               <a
-                href="#"
+                href=" https://www.instagram.com/fleurdelysrestaurantservices?igsh=emtpMGhheWhiOG00"
                 className="p-3 bg-[#141414] rounded-lg hover:bg-gray-300/20 hover:text-white transition"
               >
                 <Instagram size={18} />
