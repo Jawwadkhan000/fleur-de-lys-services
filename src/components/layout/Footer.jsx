@@ -32,7 +32,7 @@ const Footer = () => {
             </Link>
 
             <p className="text-sm text-white/60 leading-relaxed max-w-sm">
-              Fleur-de-Lys provides strategic restaurant consulting focused on
+              Fleur-de-lys-services provides strategic restaurant consulting focused on
               operational excellence, brand positioning, and sustainable
               hospitality growth.
             </p>
@@ -135,7 +135,7 @@ const Footer = () => {
             </div>
 
             <p className="text-sm text-white/60 leading-relaxed">
-              Fleur-de-Lys Restaurant Consulting <br />
+              Fleur-de-lys-services Restaurant Consulting <br />
               By Appointment Only <br />
               New York, United States
             </p>
@@ -145,7 +145,7 @@ const Footer = () => {
         {/* ================= BOTTOM ================= */}
         <div className="border-t border-white/10 mt-12 pt-5 flex flex-col md:flex-row justify-between items-center text-sm text-white/50 gap-3 text-center md:text-left">
           <p>
-            © {new Date().getFullYear()} Fleur-de-Lys Consulting. All rights
+            © {new Date().getFullYear()} Fleur-de-lys-services Consulting. All rights
             reserved.
           </p>
 

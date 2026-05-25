@@ -51,7 +51,7 @@ function About() {
           </h2>
 
           <p className="text-white/70 mb-6 leading-relaxed">
-            Fleur provides specialized consulting for restaurant owners,
+            Fleur-de-lys-services provides specialized consulting for restaurant owners,
             hospitality groups, and entrepreneurs seeking to improve performance
             and build sustainable restaurant businesses. Our approach combines
             operational expertise, strategic insight, and leadership
@@ -67,18 +67,18 @@ function About() {
           {/* Stats */}
           <div className="grid grid-cols-3 gap-6 mb-10">
             <div className="border border-white/10 rounded-lg p-4 text-center">
-              <h3 className="text-3xl font-bold text-[#E0E0E0]">120+</h3>
-              <p className="text-sm text-white/70">Restaurants Consulted</p>
+              <h3 className="text-3xl font-bold text-[#E0E0E0]">100+</h3>
+              <p className="text-sm text-white/70">Trust Score</p>
             </div>
 
             <div className="border border-white/10 rounded-lg p-4 text-center">
-              <h3 className="text-3xl font-bold text-[#E0E0E0]">$25M+</h3>
+              <h3 className="text-3xl font-bold text-[#E0E0E0]">$20K+</h3>
               <p className="text-sm text-white/70">Revenue Growth</p>
             </div>
 
             <div className="border border-white/10 rounded-lg p-4 text-center">
-              <h3 className="text-3xl font-bold text-[#E0E0E0]">30+</h3>
-              <p className="text-sm text-white/70">Cities Served</p>
+              <h3 className="text-3xl font-bold text-[#E0E0E0]">10+</h3>
+              <p className="text-sm text-white/70">Years Experience</p>
             </div>
           </div>
 

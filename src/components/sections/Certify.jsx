@@ -31,7 +31,7 @@ function Certify() {
             </div>
 
             <p className="max-w-lg text-sm sm:text-base leading-relaxed text-white/60">
-              Fleur is proudly associated with trusted restaurant industry
+              Fleur-de-lys-services is proudly associated with trusted restaurant industry
               organizations and recognized certifications that reinforce
               operational excellence and hospitality expertise.
             </p>

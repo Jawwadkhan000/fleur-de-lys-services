@@ -6,7 +6,7 @@ const testimonials = [
     role: "Restaurant Owner",
     image:
       "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
-    text: "Fleur completely transformed our restaurant operations. Within six months we improved service efficiency and increased our revenue significantly.",
+    text: "Fleur-de-lys-services completely transformed our restaurant operations. Within six months we improved service efficiency and increased our revenue significantly.",
   },
   {
     name: "Sophia Martinez",
@@ -20,7 +20,7 @@ const testimonials = [
     role: "Restaurant Entrepreneur",
     image:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
-    text: "Working with Fleur gave us the operational clarity we needed. Their consulting approach is practical, insightful, and results-driven.",
+    text: "Working with Fleur-de-lys-services gave us the operational clarity we needed. Their consulting approach is practical, insightful, and results-driven.",
   },
 ];
 
