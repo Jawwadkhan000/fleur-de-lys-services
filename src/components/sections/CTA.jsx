@@ -19,7 +19,7 @@ function CTA() {
             </h2>
 
             <p className="text-white/70">
-              Work with Fleur-de-lys-services to strengthen your operations, refine your brand,
+              Work with Fleur-de-lys Restaurant Services to strengthen your operations, refine your brand,
               and build a restaurant that thrives in today’s competitive market.
             </p>
           </div>

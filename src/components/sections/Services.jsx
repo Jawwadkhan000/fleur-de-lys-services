@@ -46,7 +46,7 @@ function Services() {
           </h2>
 
           <p className="text-white/70">
-            Fleur partners with restaurant owners to strengthen operations,
+            Fleur-de-lys Restaurant Services partner with restaurant owners to strengthen operations,
             create memorable dining experiences, and build profitable
             hospitality brands.
           </p>

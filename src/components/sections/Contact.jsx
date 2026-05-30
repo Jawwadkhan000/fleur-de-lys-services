@@ -72,7 +72,7 @@ function Contact() {
             <div className="rounded-xl overflow-hidden border border-white/10">
               <iframe
                 title="map"
-                src="https://www.google.com/maps?q=New+York&output=embed"
+                src="https://www.google.com/maps?q=St.+Peters,+Missouri&output=embed"
                 className="w-full h-[260px] border-0"
                 loading="lazy"
               ></iframe>

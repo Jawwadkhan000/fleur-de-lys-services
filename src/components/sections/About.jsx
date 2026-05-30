@@ -40,7 +40,7 @@ function About() {
             className="uppercase tracking-widest text-sm mb-3"
             style={{ color: "#E0E0E0" }}
           >
-            About Fleur
+            About Fleur-de-lys Restaurant Services
           </p>
 
           <h2 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
@@ -51,7 +51,7 @@ function About() {
           </h2>
 
           <p className="text-white/70 mb-6 leading-relaxed">
-            Fleur-de-lys-services provides specialized consulting for restaurant owners,
+            Fleur-de-lys Restaurant Services provides specialized consulting for restaurant owners,
             hospitality groups, and entrepreneurs seeking to improve performance
             and build sustainable restaurant businesses. Our approach combines
             operational expertise, strategic insight, and leadership
